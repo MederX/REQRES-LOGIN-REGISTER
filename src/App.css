@@ -1,0 +1,12 @@
+/* src/styles/App.css */
+.auth-wrapper {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.auth-inner {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #f9f9f9;
+}
