@@ -1,6 +1,4 @@
-// src/components/Logout.js
 import React from 'react';
-
 const Logout = ({ onLogout }) => {
   return (
     <div className="auth-wrapper">
@@ -8,5 +6,4 @@ const Logout = ({ onLogout }) => {
     </div>
   );
 };
-
 export default Logout;

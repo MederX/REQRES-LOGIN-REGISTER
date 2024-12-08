@@ -1,4 +1,3 @@
-/* src/styles/App.css */
 .auth-wrapper {
   max-width: 400px;
   margin: 0 auto;
@@ -10,3 +9,9 @@
   border-radius: 4px;
   background-color: #f9f9f9;
 }
+.logout-message {
+  color: green;
+  margin-top: 10px;
+}
+
+
